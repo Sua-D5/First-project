@@ -1,6 +1,7 @@
 body{
     background-color: #616161;
 }
+
 .calculator{
     width: 300px;
     background-color: #999999;
@@ -30,11 +31,12 @@ button{
     cursor: pointer;
 }
 .number{
-    background-color: #6B6B6B;
+    background-color: #61ad2b;
+    /* now click the commit button  */
     color: white;
 }
 .operator{
-    background-color: #454343;
+    background-color: #274678;
     color: white;
 }
 #clear{
@@ -46,6 +48,6 @@ button{
     color: white;
 }
 #delete{
-    background-color: #454343;
+    background-color: #bcbc13;
     color: white;
 }

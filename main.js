@@ -21,3 +21,9 @@ buttons.forEach(button =>{
         }
     });
 });
+
+/*
+* This is a multiline comment line in JS
+* */
+
+// this is a single line comment in JS
